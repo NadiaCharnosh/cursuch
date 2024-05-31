@@ -1,0 +1,67 @@
+html {
+    background-color: rgb(62, 62, 64);
+}
+
+.name,
+.RBFS,
+.az {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.repeat,
+.out {
+    margin: 0 0 80px 0;
+    /* Зліва центруємо */
+    color: aliceblue;
+    background-color: rgb(44, 48, 44);
+    font-size: 2em;
+    width: 20vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    /* Горизонтальне центрування */
+    align-items: center;
+    /* Вертикальне центрування */
+    border-radius: 10px;
+    /* Радіус закруглення кутів */
+    text-decoration: none;
+}
+
+.pr {
+    margin: 0 auto;
+    color: aliceblue;
+    background-color: rgb(44, 48, 44);
+    font-size: 2em;
+    width: 50vw;
+    height: 20vw;
+    display: flex;
+    justify-content: center;
+    /* Горизонтальне центрування */
+    align-items: center;
+    /* Вертикальне центрування */
+    border-radius: 10px;
+    /* Радіус закруглення кутів */
+    border: 10px solid rgb(44, 48, 44);
+    /* Товщина країв */
+    text-decoration: none;
+}
+
+.back {
+    margin: 0 auto 0 0;
+    /* Зліва центруємо */
+    color: aliceblue;
+    background-color: rgb(15, 16, 15);
+    font-size: 2em;
+    width: 20vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    /* Горизонтальне центрування */
+    align-items: center;
+    /* Вертикальне центрування */
+    border-radius: 10px;
+    /* Радіус закруглення кутів */
+    text-decoration: none;
+}

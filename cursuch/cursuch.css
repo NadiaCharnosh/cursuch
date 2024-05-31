@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(62, 62, 64);
+}
+
+.name,
+.choice {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.menu {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.new {
+    text-align: center;
+}
+
+.start,
+.rules,
+.out {
+    margin: 0 auto;
+    color: aliceblue;
+    background-color: rgb(15, 16, 15);
+    font-size: 2em;
+    width: 20vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    /* Горизонтальне центрування */
+    align-items: center;
+    /* Вертикальне центрування */
+    border-radius: 10px;
+    /* Радіус закруглення кутів */
+    text-decoration: none;
+}
+
+.container {
+    text-align: center;
+    /* Центрування дочірніх елементів */
+}
